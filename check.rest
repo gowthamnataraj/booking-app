@@ -1,0 +1,14 @@
+POST http://localhost:8000/server/hotels
+Content-Type: application/json
+
+{
+    "name":"Hotel vegas",
+    "type":"hotel",
+    "city":"erode",
+    "address":"no address",
+    "distance":"90",
+    "title":"super hotel",
+    "desc":"description",
+    "cheapestPrice":"400"
+}
+
